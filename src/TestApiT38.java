@@ -19,7 +19,7 @@ public class TestApiT38 {
 		
 		//decoder1.setDataType("T38_HDLC_DATA");
 		//decoder1.setDataType("T38_HDLC_FCS_OK");
-		//decoder1.setDataType("T38_HDLC_FCS_BAD");
+		decoder1.setDataType("T38_HDLC_FCS_BAD");
 		decoder1.setDataType("T38_HDLC_SIG_END");
 		
 		
